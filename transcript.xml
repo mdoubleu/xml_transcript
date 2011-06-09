@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+	<transcript>
+		<school>Vorshoogut Academic College</school>
+		<student>Student: Josylimbo Permertion:</student>
+		<year_standing>1965 Freshman</year_standing>
+		<semester>Semester 1</semester>
+		<classes>
+			<science>Biology-4credits</science>
+			<english>American Literature-4credits</english>
+			<art>Drawing-4credits</art>
+			<pyschology> Intro to Physchology-4credits</pyschology>
+		</classes>
+		<grades>A : C : A : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=16</current_credits>
+		<semester>Semester 2</semester>
+		<classes>
+			<science>Physchics-4credits</science>
+			<english>Modern Literature-4credits</english>
+			<art>Sculpture-4credits</art>
+			<philosophy> Intro to Philosophy-4credits</philosophy>
+		</classes>
+		<grades>D : A : B : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=32</current_credits>
+				<year_standing>1966 Sophomore</year_standing>
+		<semester>Semester 1</semester>
+		<classes>
+			<science>Computer Science-4credits</science>
+			<history>Historical Thinking-4credits</history>
+			<art>Painting-4credits</art>
+			<pyschology> Children Psychology-4credits</pyschology>
+		</classes>
+		<grades>C : C : C : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=48</current_credits>
+		<semester>Semester 2</semester>
+		<classes>
+			<science>Chemistry-4credits</science>
+			<history>American History-4credits</history>
+			<art>Print Making-4credits</art>
+			<philosophy> Philosophy of Revolution-4credits</philosophy>
+		</classes>
+		<grades>A : A : A : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=64</current_credits>
+				<year_standing>1967 Junior</year_standing>
+		<semester>Semester 1</semester>
+		<classes>
+			<science>Calculus-4credits</science>
+			<english>Shackespeare-4credits</english>
+			<art>Figure Drawings-4credits</art>
+			<pyschology> Physchological Development-4credits</pyschology>
+		</classes>
+		<grades>B : C : A : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=80</current_credits>
+		<semester>Semester 2</semester>
+		<classes>
+			<science>MicroBiology-4credits</science>
+			<english>Roman Classics-4credits</english>
+			<art>Water Painting-4credits</art>
+			<philosophy> Plato-4credits</philosophy>
+		</classes>
+		<grades>D : A : B : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=96</current_credits>
+		
+		<year_standing>1968 Senior</year_standing>
+		<semester>Semester 1</semester>
+		<classes>
+			<science>Organic Chemistry-4credits</science>
+			<english>Russian Literature-4credits</english>
+			<art>Advanced Drawing-4credits</art>
+			<pyschology> Nuerological Physchology-4credits</pyschology>
+		</classes>
+		<grades>A : C : A : B</grades>
+		<achievements>No Achievements</achievements>
+		<current_credits>Current credits=112</current_credits>
+		<semester>Semester 2</semester>
+		<classes>
+			<science>Intro to Java-4credits</science>
+			<english>American Classics-4credits</english>
+			<art>Photography-4credits</art>
+			<philosophy> Modern Philosophy-4credits</philosophy>
+		</classes>
+		<grades>D: A : A : D</grades>
+		<achievements>Graduated 1968</achievements>
+		<current_credits>Current credits=128</current_credits>
+	</transcript>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
